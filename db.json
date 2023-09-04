@@ -1,14 +1,9 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {foodItem: 'Cupcake', code: 1, description:'Cupcakes are small, tasty snack cakes that are favored for their portability and portion-control.', price:20, review:4.8},
+    {foodItem: 'Butterscotch Ice Cream', code:2, description: 'Creamy butterscotch ice cream and chocolate ice cream with syrup and chips.', price: 80, review: 4.9},
+    {foodItem: 'Gulab Jamun', code:6, description: 'A sweet.', price: 80, review: 4.6},
+    {foodItem: 'Curd Rice', code:3, description: 'Curd rice made with precooked rice, Curd (Indian Yogurt) herbs & tempering spices', price: 150, review: 4.3},
+    {foodItem: 'Chicken Biryani', code:4, description: 'Chicken biryani is made by layering marinated chicken at the bottom of a pot', price: 270, review: 4.9},
+    {foodItem: 'Aloo Tikki Burger', code:4, description: 'Burger patty, tomatoes, onions & some mayo with ketchup.p', price: 100, review: 4.6},
+    {foodItem: 'Crispy Paneer Burger', code:8, description: 'Paneer popcorn, peri peri mayo, lettuce & sprinkler.', price: 135, review: 4.7}
+]
